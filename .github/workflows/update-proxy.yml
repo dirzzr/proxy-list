@@ -26,8 +26,8 @@ jobs:
 
     - name: Commit and Push Changes
       run: |
-        git config --global user.email "your-email@example.com"
-        git config --global user.name "your-github-username"
+        git config --global user.email "ridhzmemory@gmail.com"
+        git config --global user.name "dirzzr"
         git add proxy.txt
         git commit -m "Added one valid proxy"
         git push
